@@ -1,0 +1,15 @@
+div {
+    border-width: 2px;
+    border: black;
+    border-style: double;
+    border-radius: 15px;
+
+    text-align: center;
+    height: 635px;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow:4px 4px 5px black;
+}
